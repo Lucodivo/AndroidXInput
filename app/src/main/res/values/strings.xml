@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidXInput</string>
+    <string name="set_bluetooth_button">Set Bluetooth</string>
+    <string name="pair_button">Pair</string>
+    <string name="find_devices_button">Find Devices</string>
+</resources>
