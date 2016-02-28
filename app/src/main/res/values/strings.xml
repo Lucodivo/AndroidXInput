@@ -2,5 +2,7 @@
     <string name="app_name">AndroidXInput</string>
     <string name="set_bluetooth_button">Set Bluetooth</string>
     <string name="pair_button">Pair</string>
-    <string name="find_devices_button">Find Devices</string>
+    <string name="find_devices_button">Become Discoverable</string>
+    <string name="controll_button">Control</string>
+    <string name="disable_bluetooth_button">Disable Bluetooth</string>
 </resources>

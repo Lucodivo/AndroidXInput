@@ -16,8 +16,21 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        android:id="@+id/Disable_Bluetooth_Button"
+        android:text="@string/disable_bluetooth_button"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:id="@+id/Find_Devices_Button"
         android:text="@string/find_devices_button"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/Control_Button"
+        android:text="@string/controll_button"/>
 
     <!--
     <ListView
