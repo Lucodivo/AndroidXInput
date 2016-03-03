@@ -1,0 +1,22 @@
+======================================================================================================
+=  X Input Controller Program. Written under GNU Public License v2.									 =
+= Software Written to connect mobile phone devices to this specific desktop program.				 =
+=																									 =
+= Authors: <Derek Sauri> <Connor Haskins> <Mario Garcia>											 =
+=																									 =
+=																									 =
+= Please don't forget to check out our other amazin' repositories that we are currently working on	 =
+= as well!!																							 =
+=																									 =
+= Our Githubs:																						 =
+=																									 =
+= Mario Garcia:			https://github.com/CheezBoiger												 =
+= Connor Haskins:		https://github.com/Lucodivo													 =
+= Derek Sauri:          https://github.com/sauuas													 =
+======================================================================================================
+
+
+Todo list!!
+
+1. Figure out the bluetooth for Windows!!
+2. Establish a system connection to x-input.
